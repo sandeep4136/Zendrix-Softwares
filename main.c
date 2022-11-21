@@ -6,4 +6,10 @@ initial function()
 
 }
 
+{
+
+feature1 funtion()
+
+}
+
 end
