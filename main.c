@@ -6,4 +6,10 @@ initial function()
 
 }
 
+{
+
+feature3 function()
+
+}
+
 end
